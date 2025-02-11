@@ -1,3 +1,1 @@
-# Shogo9.cnnmenwowen.github.io
-
-add dataset
+CNNで男と女をクラスタリングするアプリ
